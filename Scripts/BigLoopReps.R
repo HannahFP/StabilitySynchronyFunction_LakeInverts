@@ -1,7 +1,0 @@
-library(ade4)
-library(arm)
-library(FD)
-library(taxize)
-library(plyr)
-library(dplyr)
-library(ggplot2)
